@@ -5,5 +5,5 @@
 
 //second commit change -- 
 //	Deflategate scandal,
-//	Thomas Brady - he's 40,
+//	Tom Brady - he's 41,
 //	Wikipedia.
